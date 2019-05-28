@@ -1,0 +1,10 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+python=3.5.6
+gym
+hdf5
+keras
+matplotlib
+numpy
+seaborn
